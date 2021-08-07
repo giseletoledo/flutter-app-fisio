@@ -4,7 +4,7 @@ Aplicativo criado com o framework multiplataforma flutter e firebase como backen
 Tem funcionalidade de cadastro de usuários, cadastro de sessões, área de administrador e área do paciente que ele consegue abrir o navegador ou o app do Youtube.
 
 
-<img src="https://github.com/gisesonia/gisesonia.github.io/blob/main/Tela_Cadastro.png"/>
+<img src="https://github.com/gisesma/flutterappfisio/blob/main/Tela_Cadastro.png"/>
 
 ## Sobre o Flutter
 
