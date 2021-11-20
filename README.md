@@ -3,7 +3,7 @@
 Aplicativo criado utilizando a linguagem de programação Dart e o framework multiplataforma Flutter e acesso ao cadastro através do firebase com banco de dados [Cloud Firestore](https://firebase.google.com/docs/firestore?hl=pt-br).
 Tem funcionalidade de cadastro de usuários, cadastro de sessões, área de administrador e área do paciente, para acessar os vídeos cadastrados pelo app que ele consegue abrindo o app do Youtube.
 
-<img style="display:block;text-align: center" src="https://github.com/gisesma/flutterappfisio/blob/main/telas_app_fisiocontrol.PNG"/>
+<p align="center"><img src="https://github.com/gisesma/flutterappfisio/blob/main/telas_app_fisiocontrol.PNG"/></p>
 Protótipo das telas desenvolvidas no Figma
 
 ## Sobre o Flutter
