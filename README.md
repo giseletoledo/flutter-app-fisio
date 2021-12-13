@@ -11,15 +11,15 @@ Tem funcionalidade de cadastro de usuários, cadastro de sessões, área de admi
 - Flutter - **environment sdk: 2.7.0 < 3.0.0**
 
 - Dependências
-  firebase_core: ^0.5.0
-  cloud_firestore: ^0.14.0+2
-  provider: ^4.3.2+2
-  uuid: ^2.2.2
-  date_format: ^1.0.9
-  firebase: ^7.3.2
-  firebase_auth: ^0.18.1+1
-  firebase_auth_web: ^0.3.1+1
-  url_launcher: ^5.2.5
+  - firebase_core: ^0.5.0
+  - cloud_firestore: ^0.14.0+2
+  - provider: ^4.3.2+2
+  - uuid: ^2.2.2
+  - date_format: ^1.0.9
+  - firebase: ^7.3.2
+  - firebase_auth: ^0.18.1+1
+  - firebase_auth_web: ^0.3.1+1
+  - url_launcher: ^5.2.5
 
 - Gerenciamento de estados - Provider
 
@@ -94,7 +94,7 @@ https://flutter.dev/docs/development/tools/vs-code
 Clonando o repositório:
 
 ```
-$ git clone https://github.com/gisesma/flutterCursosApp
+$ git clone https://github.com/gisesma/flutter-app-fisio
 ```
 
 Baixar as dependências do projeto:
