@@ -5,7 +5,7 @@ Tem funcionalidade de cadastro de usuários, cadastro de sessões, área de admi
 
 <p align="center"><img src="https://github.com/gisesma/flutterappfisio/blob/main/telas_app_fisiocontrol.PNG"/></p>
 
-<video src='https://github.com/gisesma/flutter-app-fisio/blob/main/app_fisio_video.mov'/> 
+<video src='https://raw.githubusercontent.com/gisesma/flutter-app-fisio/blob/main/app_fisio_video.mov'/> 
 
 ##### Protótipo das telas desenvolvidas no Figma
 
