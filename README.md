@@ -96,7 +96,7 @@ https://flutter.dev/docs/development/tools/vs-code
 Clonando o repositório:
 
 ```
-$ git clone https://github.com/gisesma/flutter-app-fisio
+$ git clone https://github.com/giseletoledo/flutter-app-fisio
 ```
 
 Baixar as dependências do projeto:
